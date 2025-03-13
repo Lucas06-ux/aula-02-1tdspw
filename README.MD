@@ -8,3 +8,9 @@ O que você encontrará aqui?
 - 📝 Projetos simples e tutoriais
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
+## 🌱 Tecnologias que estou aprendendo:
+ 
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
